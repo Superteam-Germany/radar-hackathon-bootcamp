@@ -1,0 +1,20 @@
+{
+  "name": "solana-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "systemProgramExample": "ts-node ./systemProgramExampleTemplate.ts",
+    "tokenProgramExample": "ts-node ./tokenProgramExampleTemplate.ts"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.3",
+    "@types/node": "^22.5.1",
+    "bs58": "^6.0.0",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
