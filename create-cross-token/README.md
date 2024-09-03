@@ -4,4 +4,6 @@ Imagine a token that bridges the gap between different blockchains, seamlessly t
 ## Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X-ZO2Scs7eQ/0.jpg)](https://www.youtube.com/watch?v=X-ZO2Scs7eQ)
 
-This session was held by [Evgeni](https://x.com/evgenidefi) from [Wormhole Foundation](https://github.com/wormhole-foundation).
+This session was held by [Evgeni](https://x.com/evgenidefi) from [Wormhole Foundation](https://github.com/wormhole-foundation). 
+
+Please follow the video for more resources as there were many repositories and SDKs used.
